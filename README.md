@@ -27,7 +27,7 @@
 
 ---
 
-⚡ Fun fact: I drink kopi sambil debug error 😆
+⚡ Fun fact: I may be slow, but I never stop crawling forward 🐢💪
 
 <!---
 dimxdev/dimxdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
