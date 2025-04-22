@@ -23,7 +23,9 @@
 🎯 Currently working on: Personal Portfolio Website  
 
 📈 GitHub Stats:  
+<!--
 ![dimxdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimxdev&show_icons=true&theme=tokyonight)
+-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimxdev&layout=compact&theme=tokyonight)
 
 
