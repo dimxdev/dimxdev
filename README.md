@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Dimas — aka dimxdev
 
-🧠 I'm currently learning JavaScript & React  
+🧠 I'm currently learning TypeScript & React  
 🚀 Future remote developer — one commit at a time  
 💡 I love building simple apps that solve real problems  
 📫 How to reach me: [LinkedIn](https://linkedin.com/in/dimxdev)
