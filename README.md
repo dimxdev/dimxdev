@@ -17,7 +17,8 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+
 
 ---
 
