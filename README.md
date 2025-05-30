@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Dimas — aka dimxdev
 
-🧠 I'm currently learning TypeScript & React  
+🧠 I'm currently learning MERN Stack (MongoDB, Express.js, React.js, Node.js).  
 🚀 Future remote developer — one commit at a time  
 💡 I love building simple apps that solve real problems  
 📫 How to reach me: [LinkedIn](https://linkedin.com/in/dimxdev)
