@@ -5,6 +5,9 @@
 💡 I love building simple apps that solve real problems  
 📫 How to reach me: [LinkedIn](https://linkedin.com/in/dimxdev)
 
+
+---
+
 ### 🛠️ Tech Stack
 
 <p align="left">
@@ -17,9 +20,6 @@
   <!-- Baris 3 -->
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,figma" style="height:60px;" />
 </p>
-
-
-
 
 
 ---
