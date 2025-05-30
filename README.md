@@ -7,8 +7,6 @@
 
 ### 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,next,nodejs,express,python,java,c,mongodb,postgres,mysql,figma" />
 </p>
