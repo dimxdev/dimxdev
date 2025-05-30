@@ -9,13 +9,13 @@
 
 <p align="left">
   <!-- Baris 1 -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react" style="height:50px;" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react" style="height:70px;" />
   <br />
   <!-- Baris 2 -->
-  <img src="https://skillicons.dev/icons?i=next,nodejs,express,python,java,c" style="height:50px;" />
+  <img src="https://skillicons.dev/icons?i=next,nodejs,express,python,java,c" style="height:70px;" />
   <br />
   <!-- Baris 3 -->
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,figma" style="height:50px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,figma" style="height:70px;" />
 </p>
 
 
