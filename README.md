@@ -28,8 +28,8 @@
 
 📈 GitHub Stats:  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimxdev&layout=compact&theme=dark)
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimxdev&layout=compact&theme=tokyonight)-->
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimxdev&layout=compact&theme=dark)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimxdev&layout=compact&theme=tokyonight)
 
 
 
