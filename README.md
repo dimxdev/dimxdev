@@ -30,9 +30,9 @@
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimxdev&layout=compact&theme=dark)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimxdev&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dimxdev&show_icons=true&theme=radical)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dimxdev&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimxdev&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dimxdev&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dimxdev&theme=radical)-->
 
 
 
