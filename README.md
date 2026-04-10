@@ -42,6 +42,8 @@
 
 ⚡ Fun fact: I may be slow, but I never stop crawling forward 🐢💪
 
+📫 Contact me: [brotowalidimas@gmail.com](mailto:brotowalidimas@gmail.com)
+
 <!---
 dimxdev/dimxdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
