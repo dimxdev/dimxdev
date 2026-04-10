@@ -40,9 +40,9 @@
 
 ---
 
-⚡ Fun fact: I may be slow, but I never stop crawling forward 🐢💪
-
 📫 Contact me: [brotowalidimas@gmail.com](mailto:brotowalidimas@gmail.com)
+
+⚡ Fun fact: I may be slow, but I never stop crawling forward 🐢💪
 
 <!---
 dimxdev/dimxdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
