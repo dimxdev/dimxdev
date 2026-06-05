@@ -18,7 +18,7 @@
   <img src="https://skillicons.dev/icons?i=next,nodejs,express,python,java,nest,laravel" style="height:60px;" />
   <br />
   <!-- Baris 3 -->
-  <img src="https://skillicons.dev/icons?i=c,mongodb,postgres,mysql,prisma,figma" style="height:60px;" />
+  <img src="https://skillicons.dev/icons?i=c,codeigniter,mongodb,postgres,mysql,prisma,figma" style="height:60px;" />
   
 </p>
 
