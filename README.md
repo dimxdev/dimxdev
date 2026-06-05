@@ -12,14 +12,14 @@
 
 <p align="left">
   <!-- Baris 1 -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react" style="height:60px;" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,php" style="height:60px;" />
   <br />
   <!-- Baris 2 -->
-  <img src="https://skillicons.dev/icons?i=next,nodejs,express,python,java,nest" style="height:60px;" />
+  <img src="https://skillicons.dev/icons?i=next,nodejs,express,python,java,nest,laravel" style="height:60px;" />
   <br />
   <!-- Baris 3 -->
   <img src="https://skillicons.dev/icons?i=c,mongodb,postgres,mysql,prisma,figma" style="height:60px;" />
-  <img src="https://skillicons.dev/icons?i=php" style="height:60px;" />
+  
 </p>
 
 
