@@ -1,3 +1,5 @@
+<img src="assets/cat.gif" align="right" width="180" />
+
 ### 👋 Hi, I’m Dimas — aka dimxdev
 
 🧠 I'm currently learning MERN Stack (MongoDB, Express.js, React.js, Node.js).  
