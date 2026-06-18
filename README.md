@@ -49,6 +49,8 @@
 
 ⚡ Fun fact: I may be slow, but I never stop crawling forward 🐢💪
 
+[![View CV](https://img.shields.io/badge/%F0%9F%93%84%20VIEW%20CV-7aa2f7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=1a1b27)](https://github.com/dimxdev/dimxdev/blob/main/assets/cv.pdf)
+
 <!---
 dimxdev/dimxdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
