@@ -19,10 +19,10 @@
   <img src="https://skillicons.dev/icons?i=react,next,vue,express,nest,prisma" style="height:60px;" />
   <br />
   <!-- Baris 2 -->
-  <img src="https://skillicons.dev/icons?i=python,java,c,php,laravel,mysql" style="height:60px;" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,php,laravel,dart" style="height:60px;" />
   <br />
   <!-- Baris 3 -->
-  <img src="https://skillicons.dev/icons?i=sequelize,mongodb,postgres,figma" style="height:60px;" />
+  <img src="https://skillicons.dev/icons?i=sequelize,mongodb,postgres,figma,mysql" style="height:60px;" />
   
 </p>
 
