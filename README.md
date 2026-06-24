@@ -40,6 +40,7 @@
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dimxdev&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimxdev&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dimxdev&theme=radical)-->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dimxdev&bg_color=0F172A&color=93C5FD&line=7DD3FC&point=BFDBFE&hide_border=true&area=true&area_color=1E40AF" />
 
 
 
